@@ -20,6 +20,8 @@ print("\nSum (List Addition):")
 for row in result_list:
     print(row)
 
+print("=================================================================")
+
 # Matrix Addtion using Numpy
 np_a = np.array([[1, 2],[3, 4]])
 np_b = np.array([[5, 6],[7, 8]])
